@@ -16,7 +16,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="消费者生产者"
+        android:text="生产者消费者"
         android:onClick="produceCustomerClick"/>
 
 </LinearLayout>

@@ -16,6 +16,7 @@ public class ThreadDemo {
 
     public native void produceCustomDemo();
 
+    public native void stopProduceCustomDemo();
 }
 
 

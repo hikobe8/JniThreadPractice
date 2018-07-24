@@ -35,6 +35,7 @@ captures/
 # IntelliJ
 *.iml
 .idea/
+.idea/caches
 *.properties
 
 # Keystore files
