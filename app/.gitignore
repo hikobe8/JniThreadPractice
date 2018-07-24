@@ -36,6 +36,7 @@ captures/
 *.iml
 .idea/
 .idea/caches
+.idea/misc.xml
 *.properties
 
 # Keystore files
